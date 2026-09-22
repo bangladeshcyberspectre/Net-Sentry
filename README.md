@@ -27,7 +27,7 @@ possible — no dependencies required.
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bangladeshcyberspectre/Net-Sentry.git
 cd netsentry
 chmod +x netsentry.sh
 ```
